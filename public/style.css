@@ -1,0 +1,24 @@
+.title {
+    font-family: 'Bangers', cursive;
+    font-size: 3rem;
+    text-align: center;
+    color: #00a8e8;
+}
+.navbar {
+    background-color: #ba181b;
+    text-align: end;
+    padding: 20px;
+}
+.main-link {
+    color: white;
+    padding: 10px;
+    font-family: 'Bangers', cursive;
+    text-decoration: none;
+}
+.image {
+    text-align: center;
+}
+.home-image {
+    height: 70%;
+    width: 70%;
+}
